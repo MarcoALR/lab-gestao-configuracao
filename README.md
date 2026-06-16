@@ -1,7 +1,6 @@
 # Laboratório de Gestão de Configuração Moderna com Git e GitHub
 
 ## Descrição
-
 Este repositório foi desenvolvido como parte da disciplina de Engenharia de Software, na atividade prática de Gestão de Configuração Moderna com Git e GitHub.
 
 O objetivo deste projeto é aplicar conceitos fundamentais de controle de versão utilizando Git e GitHub, incluindo:
@@ -24,14 +23,15 @@ O objetivo deste projeto é aplicar conceitos fundamentais de controle de versã
 
 * Git
 * GitHub
-* (Adicione a linguagem utilizada, por exemplo: Python, Java, C#, JavaScript, etc.)
+* (JavaScript + html)
 
 ## Estrutura do Projeto
 
 ```text
 lab-gestao-configuracao/
 ├── README.md
-├── main.py
+├── script.js
+├── index.html
 ```
 
 ## Como Executar
@@ -39,7 +39,7 @@ lab-gestao-configuracao/
 1. Clone o repositório:
 
 ```bash
-git clone <url-do-repositorio>
+git clone <https://github.com/MarcoALR/lab-gestao-configuracao.git>
 ```
 
 2. Acesse a pasta do projeto:
@@ -51,7 +51,7 @@ cd lab-gestao-configuracao
 3. Execute o programa:
 
 ```bash
-python main.py
+ abra o index.html
 ```
 
 ## Autor
